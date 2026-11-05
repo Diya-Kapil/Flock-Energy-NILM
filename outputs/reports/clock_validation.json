@@ -1,0 +1,832 @@
+{
+  "transitions": [
+    {
+      "house": 1,
+      "day": "2013-10-27",
+      "direction": "back",
+      "raw_minutes_by_hour": [
+        60,
+        60,
+        60,
+        60
+      ],
+      "official_uncorrected_minutes_by_hour": [
+        60,
+        60,
+        60,
+        60
+      ],
+      "corrected_minutes_by_hour": [
+        60,
+        60,
+        60,
+        60
+      ],
+      "verdict": "pass"
+    },
+    {
+      "house": 1,
+      "day": "2014-03-30",
+      "direction": "forward",
+      "raw_minutes_by_hour": [
+        60,
+        0,
+        60,
+        60
+      ],
+      "official_uncorrected_minutes_by_hour": [
+        0,
+        60,
+        60,
+        60
+      ],
+      "corrected_minutes_by_hour": [
+        0,
+        0,
+        60,
+        60
+      ],
+      "verdict": "pass"
+    },
+    {
+      "house": 1,
+      "day": "2014-10-26",
+      "direction": "back",
+      "raw_minutes_by_hour": [
+        60,
+        60,
+        60,
+        60
+      ],
+      "official_uncorrected_minutes_by_hour": [
+        60,
+        60,
+        60,
+        60
+      ],
+      "corrected_minutes_by_hour": [
+        60,
+        60,
+        60,
+        60
+      ],
+      "verdict": "pass"
+    },
+    {
+      "house": 1,
+      "day": "2015-03-29",
+      "direction": "forward",
+      "raw_minutes_by_hour": [
+        60,
+        0,
+        60,
+        60
+      ],
+      "official_uncorrected_minutes_by_hour": [
+        60,
+        0,
+        60,
+        60
+      ],
+      "corrected_minutes_by_hour": [
+        60,
+        0,
+        60,
+        60
+      ],
+      "verdict": "pass"
+    },
+    {
+      "house": 2,
+      "day": "2013-10-27",
+      "direction": "back",
+      "raw_minutes_by_hour": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "official_uncorrected_minutes_by_hour": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "corrected_minutes_by_hour": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "verdict": "no_data"
+    },
+    {
+      "house": 2,
+      "day": "2014-03-30",
+      "direction": "forward",
+      "raw_minutes_by_hour": [
+        60,
+        0,
+        60,
+        60
+      ],
+      "official_uncorrected_minutes_by_hour": [
+        0,
+        60,
+        60,
+        60
+      ],
+      "corrected_minutes_by_hour": [
+        0,
+        0,
+        60,
+        60
+      ],
+      "verdict": "pass"
+    },
+    {
+      "house": 2,
+      "day": "2014-10-26",
+      "direction": "back",
+      "raw_minutes_by_hour": [
+        60,
+        60,
+        60,
+        60
+      ],
+      "official_uncorrected_minutes_by_hour": [
+        60,
+        60,
+        60,
+        60
+      ],
+      "corrected_minutes_by_hour": [
+        60,
+        60,
+        60,
+        60
+      ],
+      "verdict": "pass"
+    },
+    {
+      "house": 2,
+      "day": "2015-03-29",
+      "direction": "forward",
+      "raw_minutes_by_hour": [
+        60,
+        0,
+        60,
+        60
+      ],
+      "official_uncorrected_minutes_by_hour": [
+        60,
+        0,
+        60,
+        60
+      ],
+      "corrected_minutes_by_hour": [
+        60,
+        0,
+        60,
+        60
+      ],
+      "verdict": "pass"
+    },
+    {
+      "house": 8,
+      "day": "2013-10-27",
+      "direction": "back",
+      "raw_minutes_by_hour": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "official_uncorrected_minutes_by_hour": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "corrected_minutes_by_hour": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "verdict": "no_data"
+    },
+    {
+      "house": 8,
+      "day": "2014-03-30",
+      "direction": "forward",
+      "raw_minutes_by_hour": [
+        60,
+        0,
+        60,
+        60
+      ],
+      "official_uncorrected_minutes_by_hour": [
+        0,
+        60,
+        60,
+        60
+      ],
+      "corrected_minutes_by_hour": [
+        0,
+        0,
+        60,
+        60
+      ],
+      "verdict": "pass"
+    },
+    {
+      "house": 8,
+      "day": "2014-10-26",
+      "direction": "back",
+      "raw_minutes_by_hour": [
+        60,
+        60,
+        60,
+        60
+      ],
+      "official_uncorrected_minutes_by_hour": [
+        60,
+        60,
+        60,
+        60
+      ],
+      "corrected_minutes_by_hour": [
+        60,
+        60,
+        60,
+        60
+      ],
+      "verdict": "pass"
+    },
+    {
+      "house": 8,
+      "day": "2015-03-29",
+      "direction": "forward",
+      "raw_minutes_by_hour": [
+        60,
+        0,
+        60,
+        60
+      ],
+      "official_uncorrected_minutes_by_hour": [
+        60,
+        0,
+        60,
+        60
+      ],
+      "corrected_minutes_by_hour": [
+        60,
+        0,
+        60,
+        60
+      ],
+      "verdict": "pass"
+    },
+    {
+      "house": 10,
+      "day": "2013-10-27",
+      "direction": "back",
+      "raw_minutes_by_hour": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "official_uncorrected_minutes_by_hour": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "corrected_minutes_by_hour": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "verdict": "no_data"
+    },
+    {
+      "house": 10,
+      "day": "2014-03-30",
+      "direction": "forward",
+      "raw_minutes_by_hour": [
+        60,
+        0,
+        60,
+        60
+      ],
+      "official_uncorrected_minutes_by_hour": [
+        0,
+        60,
+        60,
+        60
+      ],
+      "corrected_minutes_by_hour": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "verdict": "review"
+    },
+    {
+      "house": 10,
+      "day": "2014-10-26",
+      "direction": "back",
+      "raw_minutes_by_hour": [
+        57,
+        60,
+        59,
+        57
+      ],
+      "official_uncorrected_minutes_by_hour": [
+        56,
+        60,
+        59,
+        57
+      ],
+      "corrected_minutes_by_hour": [
+        56,
+        60,
+        59,
+        57
+      ],
+      "verdict": "pass"
+    },
+    {
+      "house": 10,
+      "day": "2015-03-29",
+      "direction": "forward",
+      "raw_minutes_by_hour": [
+        60,
+        0,
+        60,
+        60
+      ],
+      "official_uncorrected_minutes_by_hour": [
+        60,
+        0,
+        60,
+        60
+      ],
+      "corrected_minutes_by_hour": [
+        60,
+        0,
+        60,
+        60
+      ],
+      "verdict": "pass"
+    },
+    {
+      "house": 15,
+      "day": "2013-10-27",
+      "direction": "back",
+      "raw_minutes_by_hour": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "official_uncorrected_minutes_by_hour": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "corrected_minutes_by_hour": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "verdict": "no_data"
+    },
+    {
+      "house": 15,
+      "day": "2014-03-30",
+      "direction": "forward",
+      "raw_minutes_by_hour": [
+        60,
+        0,
+        60,
+        60
+      ],
+      "official_uncorrected_minutes_by_hour": [
+        0,
+        60,
+        60,
+        60
+      ],
+      "corrected_minutes_by_hour": [
+        0,
+        0,
+        60,
+        60
+      ],
+      "verdict": "pass"
+    },
+    {
+      "house": 15,
+      "day": "2014-10-26",
+      "direction": "back",
+      "raw_minutes_by_hour": [
+        60,
+        60,
+        60,
+        60
+      ],
+      "official_uncorrected_minutes_by_hour": [
+        60,
+        60,
+        60,
+        60
+      ],
+      "corrected_minutes_by_hour": [
+        60,
+        60,
+        60,
+        60
+      ],
+      "verdict": "pass"
+    },
+    {
+      "house": 15,
+      "day": "2015-03-29",
+      "direction": "forward",
+      "raw_minutes_by_hour": [
+        60,
+        0,
+        60,
+        60
+      ],
+      "official_uncorrected_minutes_by_hour": [
+        60,
+        0,
+        60,
+        60
+      ],
+      "corrected_minutes_by_hour": [
+        60,
+        0,
+        60,
+        60
+      ],
+      "verdict": "pass"
+    },
+    {
+      "house": 16,
+      "day": "2013-10-27",
+      "direction": "back",
+      "raw_minutes_by_hour": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "official_uncorrected_minutes_by_hour": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "corrected_minutes_by_hour": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "verdict": "no_data"
+    },
+    {
+      "house": 16,
+      "day": "2014-03-30",
+      "direction": "forward",
+      "raw_minutes_by_hour": [
+        60,
+        0,
+        60,
+        60
+      ],
+      "official_uncorrected_minutes_by_hour": [
+        0,
+        60,
+        60,
+        60
+      ],
+      "corrected_minutes_by_hour": [
+        0,
+        0,
+        60,
+        60
+      ],
+      "verdict": "pass"
+    },
+    {
+      "house": 16,
+      "day": "2014-10-26",
+      "direction": "back",
+      "raw_minutes_by_hour": [
+        60,
+        60,
+        60,
+        60
+      ],
+      "official_uncorrected_minutes_by_hour": [
+        60,
+        60,
+        60,
+        60
+      ],
+      "corrected_minutes_by_hour": [
+        60,
+        60,
+        60,
+        60
+      ],
+      "verdict": "pass"
+    },
+    {
+      "house": 16,
+      "day": "2015-03-29",
+      "direction": "forward",
+      "raw_minutes_by_hour": [
+        60,
+        0,
+        60,
+        60
+      ],
+      "official_uncorrected_minutes_by_hour": [
+        60,
+        0,
+        60,
+        60
+      ],
+      "corrected_minutes_by_hour": [
+        60,
+        0,
+        60,
+        60
+      ],
+      "verdict": "pass"
+    }
+  ],
+  "routine_shift": [
+    {
+      "house": 1,
+      "official_uncorrected": 60,
+      "official_corrected": 0,
+      "raw": 0
+    },
+    {
+      "house": 2,
+      "official_uncorrected": 65,
+      "official_corrected": 5,
+      "raw": 5
+    },
+    {
+      "house": 8,
+      "official_uncorrected": 105,
+      "official_corrected": 45,
+      "raw": 45
+    },
+    {
+      "house": 10,
+      "official_uncorrected": 65,
+      "official_corrected": 5,
+      "raw": 5
+    },
+    {
+      "house": 15,
+      "official_uncorrected": 5,
+      "official_corrected": -55,
+      "raw": -55
+    },
+    {
+      "house": 16,
+      "official_uncorrected": 0,
+      "official_corrected": -60,
+      "raw": -60
+    }
+  ],
+  "part_drift_by_house": [
+    {
+      "house": 1,
+      "days_compared": 88,
+      "days_with_lag": 41,
+      "max_lag_min": 7,
+      "lag_on_2014_08_05": 6,
+      "lag_on_2014_09_10": 0
+    },
+    {
+      "house": 2,
+      "days_compared": 90,
+      "days_with_lag": 45,
+      "max_lag_min": 6,
+      "lag_on_2014_08_05": 6,
+      "lag_on_2014_09_10": 0
+    },
+    {
+      "house": 8,
+      "days_compared": 90,
+      "days_with_lag": 45,
+      "max_lag_min": 6,
+      "lag_on_2014_08_05": 6,
+      "lag_on_2014_09_10": 0
+    },
+    {
+      "house": 10,
+      "days_compared": 89,
+      "days_with_lag": 43,
+      "max_lag_min": 6,
+      "lag_on_2014_08_05": 6,
+      "lag_on_2014_09_10": 0
+    },
+    {
+      "house": 15,
+      "days_compared": 80,
+      "days_with_lag": 38,
+      "max_lag_min": 5,
+      "lag_on_2014_08_05": null,
+      "lag_on_2014_09_10": null
+    },
+    {
+      "house": 16,
+      "days_compared": 17,
+      "days_with_lag": 7,
+      "max_lag_min": 2,
+      "lag_on_2014_08_05": null,
+      "lag_on_2014_09_10": null
+    }
+  ],
+  "house1_block_offsets": {
+    "autumn_2013": [
+      {
+        "official_clock_block": "2013-10-26 18:00:00",
+        "official_minutes": 120,
+        "source": "part1",
+        "clean_minus_raw_min": -60,
+        "r": 1.0
+      },
+      {
+        "official_clock_block": "2013-10-26 20:00:00",
+        "official_minutes": 120,
+        "source": "part1",
+        "clean_minus_raw_min": -60,
+        "r": 1.0
+      },
+      {
+        "official_clock_block": "2013-10-26 22:00:00",
+        "official_minutes": 60,
+        "source": "part1",
+        "clean_minus_raw_min": -60,
+        "r": 1.0
+      },
+      {
+        "official_clock_block": "2013-10-27 00:00:00",
+        "official_minutes": 120,
+        "source": "part1",
+        "clean_minus_raw_min": 0,
+        "r": 0.999
+      },
+      {
+        "official_clock_block": "2013-10-27 02:00:00",
+        "official_minutes": 120,
+        "source": "part1",
+        "clean_minus_raw_min": 0,
+        "r": 0.999
+      },
+      {
+        "official_clock_block": "2013-10-27 04:00:00",
+        "official_minutes": 120,
+        "source": "part1",
+        "clean_minus_raw_min": 0,
+        "r": 1.0
+      }
+    ],
+    "spring_2014": [
+      {
+        "official_clock_block": "2014-03-29 18:00:00",
+        "official_minutes": 120,
+        "source": "part1",
+        "clean_minus_raw_min": 0,
+        "r": 1.0
+      },
+      {
+        "official_clock_block": "2014-03-29 20:00:00",
+        "official_minutes": 120,
+        "source": "part1",
+        "clean_minus_raw_min": 0,
+        "r": 1.0
+      },
+      {
+        "official_clock_block": "2014-03-29 22:00:00",
+        "official_minutes": 120,
+        "source": "part1",
+        "clean_minus_raw_min": -60,
+        "r": 0.832
+      },
+      {
+        "official_clock_block": "2014-03-30 00:00:00",
+        "official_minutes": 60,
+        "source": "part1",
+        "clean_minus_raw_min": -60,
+        "r": 1.0
+      },
+      {
+        "official_clock_block": "2014-03-30 02:00:00",
+        "official_minutes": 120,
+        "source": "part1",
+        "clean_minus_raw_min": -60,
+        "r": 1.0
+      },
+      {
+        "official_clock_block": "2014-03-30 04:00:00",
+        "official_minutes": 120,
+        "source": "part1",
+        "clean_minus_raw_min": -60,
+        "r": 1.0
+      }
+    ],
+    "part1_outage_ends": [
+      {
+        "official_clock_block": "2014-09-04 06:00:00",
+        "official_minutes": 120,
+        "source": "part2",
+        "clean_minus_raw_min": 0,
+        "r": 0.999
+      },
+      {
+        "official_clock_block": "2014-09-04 08:00:00",
+        "official_minutes": 120,
+        "source": "part2",
+        "clean_minus_raw_min": 0,
+        "r": 1.0
+      },
+      {
+        "official_clock_block": "2014-09-04 10:00:00",
+        "official_minutes": 120,
+        "source": "part1",
+        "clean_minus_raw_min": -60,
+        "r": 1.0
+      },
+      {
+        "official_clock_block": "2014-09-04 12:00:00",
+        "official_minutes": 107,
+        "source": "part1",
+        "clean_minus_raw_min": -60,
+        "r": 1.0
+      },
+      {
+        "official_clock_block": "2014-09-04 14:00:00",
+        "official_minutes": 120,
+        "source": "part1",
+        "clean_minus_raw_min": -60,
+        "r": 1.0
+      }
+    ],
+    "part1_ends": [
+      {
+        "official_clock_block": "2014-09-30 20:00:00",
+        "official_minutes": 120,
+        "source": "part1",
+        "clean_minus_raw_min": -60,
+        "r": 0.999
+      },
+      {
+        "official_clock_block": "2014-09-30 22:00:00",
+        "official_minutes": 120,
+        "source": "part1",
+        "clean_minus_raw_min": -60,
+        "r": 1.0
+      },
+      {
+        "official_clock_block": "2014-10-01 00:00:00",
+        "official_minutes": 120,
+        "source": "part1",
+        "clean_minus_raw_min": -60,
+        "r": 0.962
+      },
+      {
+        "official_clock_block": "2014-10-01 02:00:00",
+        "official_minutes": 120,
+        "source": "part2",
+        "clean_minus_raw_min": 0,
+        "r": 0.999
+      },
+      {
+        "official_clock_block": "2014-10-01 04:00:00",
+        "official_minutes": 116,
+        "source": "part2",
+        "clean_minus_raw_min": 0,
+        "r": 1.0
+      }
+    ]
+  }
+}

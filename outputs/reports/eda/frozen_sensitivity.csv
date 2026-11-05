@@ -1,0 +1,7 @@
+house,cycles_excluding_frozen,cycles_including_frozen,kwh_per_day_excluding_frozen,kwh_per_day_including_frozen,active_pct_excluding_frozen,active_pct_including_frozen,median_kwh_excluding_frozen,median_kwh_including_frozen
+1,384,385,0.249,0.261,1.85,1.88,0.321,0.322
+2,337,337,0.437,0.434,4.72,4.68,0.609,0.609
+8,364,365,0.705,0.704,3.33,3.32,0.802,0.804
+10,598,598,0.853,0.778,9.57,8.73,0.711,0.711
+15,244,245,0.415,0.413,2.92,2.93,0.703,0.702
+16,312,312,0.473,0.464,3.76,3.69,0.619,0.619

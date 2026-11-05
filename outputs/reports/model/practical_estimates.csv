@@ -1,0 +1,7 @@
+house,actual_kwh_per_year,predicted_kwh_per_year,actual_peak_share_pct,predicted_peak_share_pct
+1,91.0,108.5,2.2,12.6
+2,159.7,369.6,17.6,23.8
+8,257.3,296.2,0.5,7.9
+10,311.3,238.2,10.3,23.4
+15,151.4,73.3,21.5,24.2
+16,172.6,191.2,29.1,24.2

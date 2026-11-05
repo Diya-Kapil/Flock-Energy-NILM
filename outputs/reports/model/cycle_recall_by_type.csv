@@ -1,0 +1,9 @@
+group,label,cycles,detected,recall,median_energy_kwh
+heating,heated,2154,1977,0.918,0.66
+heating,unheated,85,52,0.612,0.062
+duration,under 45 min,440,312,0.709,0.285
+duration,45 to 89 min,811,750,0.925,0.613
+duration,90 min or more,988,967,0.979,0.724
+heating length,under 5 heating min,168,104,0.619,0.135
+heating length,5 to 14 heating min,921,805,0.874,0.45
+heating length,15 or more heating min,1150,1120,0.974,0.757

@@ -1,0 +1,655 @@
+{
+  "official_rows": 6960008,
+  "official_minutes_compared": 789881,
+  "periods": {
+    "both_use_part1": {
+      "from": "2013-10-09 14:06:00",
+      "to": "2014-06-27 21:57:00",
+      "sensors": [
+        {
+          "sensor": "Aggregate",
+          "label": "Aggregate",
+          "minutes_both": 304770,
+          "minutes_only_ours": 5692,
+          "minutes_only_official": 2,
+          "r": 0.9994,
+          "mean_abs_diff_w": 3.97,
+          "ours_mean_w": 537.32,
+          "official_mean_w": 537.19
+        },
+        {
+          "sensor": "Appliance1",
+          "label": "Fridge",
+          "minutes_both": 304737,
+          "minutes_only_ours": 5685,
+          "minutes_only_official": 35,
+          "r": 0.9997,
+          "mean_abs_diff_w": 0.05,
+          "ours_mean_w": 17.01,
+          "official_mean_w": 17.0
+        },
+        {
+          "sensor": "Appliance2",
+          "label": "Freezer (1)",
+          "minutes_both": 304770,
+          "minutes_only_ours": 5692,
+          "minutes_only_official": 2,
+          "r": 0.9978,
+          "mean_abs_diff_w": 0.09,
+          "ours_mean_w": 15.97,
+          "official_mean_w": 15.97
+        },
+        {
+          "sensor": "Appliance3",
+          "label": "Freezer (2)",
+          "minutes_both": 304770,
+          "minutes_only_ours": 5692,
+          "minutes_only_official": 2,
+          "r": 0.9994,
+          "mean_abs_diff_w": 0.08,
+          "ours_mean_w": 27.88,
+          "official_mean_w": 27.88
+        },
+        {
+          "sensor": "Appliance4",
+          "label": "Washer dryer",
+          "minutes_both": 304698,
+          "minutes_only_ours": 5692,
+          "minutes_only_official": 74,
+          "r": 0.9995,
+          "mean_abs_diff_w": 0.03,
+          "ours_mean_w": 2.39,
+          "official_mean_w": 2.4
+        },
+        {
+          "sensor": "Appliance5",
+          "label": "Washing machine",
+          "minutes_both": 304770,
+          "minutes_only_ours": 5692,
+          "minutes_only_official": 2,
+          "r": 0.9996,
+          "mean_abs_diff_w": 0.14,
+          "ours_mean_w": 9.94,
+          "official_mean_w": 9.93
+        },
+        {
+          "sensor": "Appliance6",
+          "label": "Dishwasher",
+          "minutes_both": 304770,
+          "minutes_only_ours": 5692,
+          "minutes_only_official": 2,
+          "r": 0.9997,
+          "mean_abs_diff_w": 0.07,
+          "ours_mean_w": 11.38,
+          "official_mean_w": 11.38
+        },
+        {
+          "sensor": "Appliance7",
+          "label": "Computer",
+          "minutes_both": 304770,
+          "minutes_only_ours": 5692,
+          "minutes_only_official": 2,
+          "r": 0.9999,
+          "mean_abs_diff_w": 0.01,
+          "ours_mean_w": 1.71,
+          "official_mean_w": 1.71
+        },
+        {
+          "sensor": "Appliance8",
+          "label": "Television site",
+          "minutes_both": 304763,
+          "minutes_only_ours": 5692,
+          "minutes_only_official": 9,
+          "r": 0.9999,
+          "mean_abs_diff_w": 0.02,
+          "ours_mean_w": 5.34,
+          "official_mean_w": 5.34
+        },
+        {
+          "sensor": "Appliance9",
+          "label": "Electric heater",
+          "minutes_both": 304770,
+          "minutes_only_ours": 5692,
+          "minutes_only_official": 2,
+          "r": 0.9999,
+          "mean_abs_diff_w": 0.18,
+          "ours_mean_w": 111.21,
+          "official_mean_w": 111.21
+        }
+      ]
+    },
+    "ours_part2_official_mostly_part1": {
+      "from": "2014-06-27 21:57:00",
+      "to": "2014-10-01 02:00:00",
+      "sensors": [
+        {
+          "sensor": "Aggregate",
+          "label": "Aggregate",
+          "minutes_both": 121011,
+          "minutes_only_ours": 7513,
+          "minutes_only_official": 4022,
+          "r": 0.7935,
+          "mean_abs_diff_w": 57.57,
+          "ours_mean_w": 355.97,
+          "official_mean_w": 355.3
+        },
+        {
+          "sensor": "Appliance1",
+          "label": "Fridge",
+          "minutes_both": 119476,
+          "minutes_only_ours": 7423,
+          "minutes_only_official": 5557,
+          "r": 0.9454,
+          "mean_abs_diff_w": 1.86,
+          "ours_mean_w": 21.15,
+          "official_mean_w": 21.13
+        },
+        {
+          "sensor": "Appliance2",
+          "label": "Freezer (1)",
+          "minutes_both": 120604,
+          "minutes_only_ours": 7377,
+          "minutes_only_official": 4429,
+          "r": 0.8502,
+          "mean_abs_diff_w": 2.92,
+          "ours_mean_w": 20.89,
+          "official_mean_w": 20.91
+        },
+        {
+          "sensor": "Appliance3",
+          "label": "Freezer (2)",
+          "minutes_both": 121005,
+          "minutes_only_ours": 7497,
+          "minutes_only_official": 4028,
+          "r": 0.9227,
+          "mean_abs_diff_w": 3.14,
+          "ours_mean_w": 32.38,
+          "official_mean_w": 32.36
+        },
+        {
+          "sensor": "Appliance4",
+          "label": "Washer dryer",
+          "minutes_both": 108814,
+          "minutes_only_ours": 6817,
+          "minutes_only_official": 16219,
+          "r": 0.8535,
+          "mean_abs_diff_w": 1.1,
+          "ours_mean_w": 2.88,
+          "official_mean_w": 2.84
+        },
+        {
+          "sensor": "Appliance5",
+          "label": "Washing machine",
+          "minutes_both": 120301,
+          "minutes_only_ours": 6532,
+          "minutes_only_official": 4732,
+          "r": 0.8037,
+          "mean_abs_diff_w": 3.99,
+          "ours_mean_w": 8.2,
+          "official_mean_w": 8.18
+        },
+        {
+          "sensor": "Appliance6",
+          "label": "Dishwasher",
+          "minutes_both": 120257,
+          "minutes_only_ours": 7440,
+          "minutes_only_official": 4776,
+          "r": 0.8734,
+          "mean_abs_diff_w": 2.93,
+          "ours_mean_w": 9.61,
+          "official_mean_w": 9.6
+        },
+        {
+          "sensor": "Appliance7",
+          "label": "Computer",
+          "minutes_both": 121016,
+          "minutes_only_ours": 7496,
+          "minutes_only_official": 4017,
+          "r": 0.9749,
+          "mean_abs_diff_w": 0.23,
+          "ours_mean_w": 2.25,
+          "official_mean_w": 2.25
+        },
+        {
+          "sensor": "Appliance8",
+          "label": "Television site",
+          "minutes_both": 120462,
+          "minutes_only_ours": 7475,
+          "minutes_only_official": 4571,
+          "r": 0.9775,
+          "mean_abs_diff_w": 0.5,
+          "ours_mean_w": 7.5,
+          "official_mean_w": 7.49
+        },
+        {
+          "sensor": "Appliance9",
+          "label": "Electric heater",
+          "minutes_both": 492,
+          "minutes_only_ours": 21,
+          "minutes_only_official": 124541,
+          "r": null,
+          "mean_abs_diff_w": 0.0,
+          "ours_mean_w": 1.0,
+          "official_mean_w": 1.0
+        }
+      ]
+    },
+    "both_use_part2": {
+      "from": "2014-10-01 02:00:00",
+      "to": "2015-07-10 11:57:00",
+      "sensors": [
+        {
+          "sensor": "Aggregate",
+          "label": "Aggregate",
+          "minutes_both": 360041,
+          "minutes_only_ours": 1324,
+          "minutes_only_official": 35,
+          "r": 0.9992,
+          "mean_abs_diff_w": 4.39,
+          "ours_mean_w": 474.34,
+          "official_mean_w": 474.36
+        },
+        {
+          "sensor": "Appliance1",
+          "label": "Fridge",
+          "minutes_both": 357609,
+          "minutes_only_ours": 1323,
+          "minutes_only_official": 2467,
+          "r": 0.9951,
+          "mean_abs_diff_w": 0.09,
+          "ours_mean_w": 17.03,
+          "official_mean_w": 17.03
+        },
+        {
+          "sensor": "Appliance2",
+          "label": "Freezer (1)",
+          "minutes_both": 356793,
+          "minutes_only_ours": 1322,
+          "minutes_only_official": 3283,
+          "r": 0.9823,
+          "mean_abs_diff_w": 0.16,
+          "ours_mean_w": 15.63,
+          "official_mean_w": 15.64
+        },
+        {
+          "sensor": "Appliance3",
+          "label": "Freezer (2)",
+          "minutes_both": 358602,
+          "minutes_only_ours": 1322,
+          "minutes_only_official": 1474,
+          "r": 0.9991,
+          "mean_abs_diff_w": 0.09,
+          "ours_mean_w": 29.22,
+          "official_mean_w": 29.22
+        },
+        {
+          "sensor": "Appliance4",
+          "label": "Washer dryer",
+          "minutes_both": 359850,
+          "minutes_only_ours": 1323,
+          "minutes_only_official": 226,
+          "r": 0.999,
+          "mean_abs_diff_w": 0.01,
+          "ours_mean_w": 0.93,
+          "official_mean_w": 0.93
+        },
+        {
+          "sensor": "Appliance5",
+          "label": "Washing machine",
+          "minutes_both": 352571,
+          "minutes_only_ours": 474,
+          "minutes_only_official": 7505,
+          "r": 0.9983,
+          "mean_abs_diff_w": 0.27,
+          "ours_mean_w": 12.55,
+          "official_mean_w": 12.55
+        },
+        {
+          "sensor": "Appliance6",
+          "label": "Dishwasher",
+          "minutes_both": 359989,
+          "minutes_only_ours": 1323,
+          "minutes_only_official": 87,
+          "r": 0.9996,
+          "mean_abs_diff_w": 0.09,
+          "ours_mean_w": 11.84,
+          "official_mean_w": 11.85
+        },
+        {
+          "sensor": "Appliance7",
+          "label": "Computer",
+          "minutes_both": 360033,
+          "minutes_only_ours": 1323,
+          "minutes_only_official": 43,
+          "r": 0.9985,
+          "mean_abs_diff_w": 0.02,
+          "ours_mean_w": 3.25,
+          "official_mean_w": 3.25
+        },
+        {
+          "sensor": "Appliance8",
+          "label": "Television site",
+          "minutes_both": 358427,
+          "minutes_only_ours": 1323,
+          "minutes_only_official": 1649,
+          "r": 0.9868,
+          "mean_abs_diff_w": 0.04,
+          "ours_mean_w": 5.67,
+          "official_mean_w": 5.68
+        },
+        {
+          "sensor": "Appliance9",
+          "label": "Electric heater",
+          "minutes_both": 270623,
+          "minutes_only_ours": 6,
+          "minutes_only_official": 89453,
+          "r": 0.9986,
+          "mean_abs_diff_w": 0.84,
+          "ours_mean_w": 71.88,
+          "official_mean_w": 71.88
+        }
+      ]
+    }
+  },
+  "monthly_alignment": [
+    {
+      "month": "2013-10",
+      "lag_min": 0,
+      "r": 0.9992,
+      "minutes_compared": 28882
+    },
+    {
+      "month": "2013-11",
+      "lag_min": 0,
+      "r": 0.9992,
+      "minutes_compared": 40787
+    },
+    {
+      "month": "2013-12",
+      "lag_min": 0,
+      "r": 0.9992,
+      "minutes_compared": 43292
+    },
+    {
+      "month": "2014-01",
+      "lag_min": 0,
+      "r": 0.999,
+      "minutes_compared": 32269
+    },
+    {
+      "month": "2014-02",
+      "lag_min": null,
+      "r": null,
+      "minutes_compared": 0
+    },
+    {
+      "month": "2014-03",
+      "lag_min": 0,
+      "r": 0.9997,
+      "minutes_compared": 33400
+    },
+    {
+      "month": "2014-04",
+      "lag_min": 0,
+      "r": 0.9996,
+      "minutes_compared": 43018
+    },
+    {
+      "month": "2014-05",
+      "lag_min": 0,
+      "r": 0.9994,
+      "minutes_compared": 44480
+    },
+    {
+      "month": "2014-06",
+      "lag_min": 0,
+      "r": 0.9918,
+      "minutes_compared": 43066
+    },
+    {
+      "month": "2014-07",
+      "lag_min": 0,
+      "r": 0.7121,
+      "minutes_compared": 42864
+    },
+    {
+      "month": "2014-08",
+      "lag_min": 0,
+      "r": 0.7057,
+      "minutes_compared": 38529
+    },
+    {
+      "month": "2014-09",
+      "lag_min": 0,
+      "r": 0.9756,
+      "minutes_compared": 35194
+    },
+    {
+      "month": "2014-10",
+      "lag_min": 0,
+      "r": 0.9988,
+      "minutes_compared": 40880
+    },
+    {
+      "month": "2014-11",
+      "lag_min": 0,
+      "r": 0.9989,
+      "minutes_compared": 42360
+    },
+    {
+      "month": "2014-12",
+      "lag_min": 0,
+      "r": 0.9988,
+      "minutes_compared": 43142
+    },
+    {
+      "month": "2015-01",
+      "lag_min": 0,
+      "r": 0.9983,
+      "minutes_compared": 44473
+    },
+    {
+      "month": "2015-02",
+      "lag_min": 0,
+      "r": 0.9995,
+      "minutes_compared": 40268
+    },
+    {
+      "month": "2015-03",
+      "lag_min": 0,
+      "r": 0.9997,
+      "minutes_compared": 38118
+    },
+    {
+      "month": "2015-04",
+      "lag_min": 0,
+      "r": 0.9997,
+      "minutes_compared": 35879
+    },
+    {
+      "month": "2015-05",
+      "lag_min": 0,
+      "r": 0.9998,
+      "minutes_compared": 29127
+    },
+    {
+      "month": "2015-06",
+      "lag_min": 0,
+      "r": 0.9997,
+      "minutes_compared": 32296
+    },
+    {
+      "month": "2015-07",
+      "lag_min": 0,
+      "r": 0.9997,
+      "minutes_compared": 13498
+    }
+  ],
+  "spike_treatment": [
+    {
+      "sensor": "Appliance1",
+      "minutes_with_spike_removed": 251,
+      "ours_missing_in_those_minutes": 48,
+      "official_mean_w_in_those_minutes": 10.2,
+      "official_exactly_zero_minutes": 197
+    },
+    {
+      "sensor": "Appliance2",
+      "minutes_with_spike_removed": 22,
+      "ours_missing_in_those_minutes": 0,
+      "official_mean_w_in_those_minutes": 7.3,
+      "official_exactly_zero_minutes": 17
+    },
+    {
+      "sensor": "Appliance3",
+      "minutes_with_spike_removed": 73,
+      "ours_missing_in_those_minutes": 0,
+      "official_mean_w_in_those_minutes": 19.5,
+      "official_exactly_zero_minutes": 46
+    },
+    {
+      "sensor": "Appliance4",
+      "minutes_with_spike_removed": 253,
+      "ours_missing_in_those_minutes": 80,
+      "official_mean_w_in_those_minutes": 0.4,
+      "official_exactly_zero_minutes": 242
+    },
+    {
+      "sensor": "Appliance5",
+      "minutes_with_spike_removed": 62,
+      "ours_missing_in_those_minutes": 10,
+      "official_mean_w_in_those_minutes": 10.1,
+      "official_exactly_zero_minutes": 52
+    },
+    {
+      "sensor": "Appliance6",
+      "minutes_with_spike_removed": 19,
+      "ours_missing_in_those_minutes": 0,
+      "official_mean_w_in_those_minutes": 0.0,
+      "official_exactly_zero_minutes": 19
+    },
+    {
+      "sensor": "Appliance7",
+      "minutes_with_spike_removed": 63,
+      "ours_missing_in_those_minutes": 27,
+      "official_mean_w_in_those_minutes": 29.3,
+      "official_exactly_zero_minutes": 38
+    },
+    {
+      "sensor": "Appliance8",
+      "minutes_with_spike_removed": 56,
+      "ours_missing_in_those_minutes": 10,
+      "official_mean_w_in_those_minutes": 1.2,
+      "official_exactly_zero_minutes": 52
+    },
+    {
+      "sensor": "Appliance9",
+      "minutes_with_spike_removed": 23,
+      "ours_missing_in_those_minutes": 0,
+      "official_mean_w_in_those_minutes": 172.3,
+      "official_exactly_zero_minutes": 0
+    }
+  ],
+  "held_values_in_official": [
+    {
+      "sensor": "Aggregate",
+      "silent_minutes_here": 45252,
+      "official_has_a_value": 35,
+      "official_value_is_zero": 0,
+      "official_value_is_nonzero": 35,
+      "official_energy_kwh_in_those_minutes": 0.29
+    },
+    {
+      "sensor": "Appliance1",
+      "silent_minutes_here": 47685,
+      "official_has_a_value": 2467,
+      "official_value_is_zero": 2046,
+      "official_value_is_nonzero": 421,
+      "official_energy_kwh_in_those_minutes": 0.83
+    },
+    {
+      "sensor": "Appliance2",
+      "silent_minutes_here": 48502,
+      "official_has_a_value": 3283,
+      "official_value_is_zero": 1947,
+      "official_value_is_nonzero": 1336,
+      "official_energy_kwh_in_those_minutes": 1.29
+    },
+    {
+      "sensor": "Appliance3",
+      "silent_minutes_here": 46693,
+      "official_has_a_value": 1474,
+      "official_value_is_zero": 1443,
+      "official_value_is_nonzero": 31,
+      "official_energy_kwh_in_those_minutes": 0.04
+    },
+    {
+      "sensor": "Appliance4",
+      "silent_minutes_here": 45444,
+      "official_has_a_value": 226,
+      "official_value_is_zero": 226,
+      "official_value_is_nonzero": 0,
+      "official_energy_kwh_in_those_minutes": 0.0
+    },
+    {
+      "sensor": "Appliance5",
+      "silent_minutes_here": 53572,
+      "official_has_a_value": 7505,
+      "official_value_is_zero": 6938,
+      "official_value_is_nonzero": 567,
+      "official_energy_kwh_in_those_minutes": 2.36
+    },
+    {
+      "sensor": "Appliance6",
+      "silent_minutes_here": 45305,
+      "official_has_a_value": 87,
+      "official_value_is_zero": 87,
+      "official_value_is_nonzero": 0,
+      "official_energy_kwh_in_those_minutes": 0.0
+    },
+    {
+      "sensor": "Appliance7",
+      "silent_minutes_here": 45261,
+      "official_has_a_value": 43,
+      "official_value_is_zero": 33,
+      "official_value_is_nonzero": 10,
+      "official_energy_kwh_in_those_minutes": 0.01
+    },
+    {
+      "sensor": "Appliance8",
+      "silent_minutes_here": 46867,
+      "official_has_a_value": 1649,
+      "official_value_is_zero": 1353,
+      "official_value_is_nonzero": 296,
+      "official_energy_kwh_in_those_minutes": 0.14
+    },
+    {
+      "sensor": "Appliance9",
+      "silent_minutes_here": 135930,
+      "official_has_a_value": 89395,
+      "official_value_is_zero": 5961,
+      "official_value_is_nonzero": 83434,
+      "official_energy_kwh_in_those_minutes": 2.15
+    }
+  ],
+  "washing_machine_silence_behaviour": [
+    {
+      "silence_length": "under 10 min",
+      "runs": 1276,
+      "held_one_value": 1275,
+      "held_at_nonzero": 37
+    },
+    {
+      "silence_length": "10 to 59 min",
+      "runs": 146,
+      "held_one_value": 146,
+      "held_at_nonzero": 11
+    },
+    {
+      "silence_length": "60 min or more",
+      "runs": 18,
+      "held_one_value": 18,
+      "held_at_nonzero": 2
+    }
+  ]
+}

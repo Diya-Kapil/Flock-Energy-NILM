@@ -1,0 +1,7 @@
+house,kind,start_pos,end_pos,energy_kwh,running_appliance
+2,false alarm,651475,651650,2.1122643628666666,Kettle
+16,false alarm,3082,3309,1.2977433072166669,Electric Heater(2)
+1,false alarm,629198,629342,0.9565674785333333,Electric Heater
+8,missed cycle,236586,236726,1.7918503366947174,
+15,missed cycle,426174,426306,1.3840918943564098,
+10,missed cycle,193398,193498,0.9481925287564595,
